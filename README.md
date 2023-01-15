@@ -11,3 +11,5 @@
 - Lombok
 - Java 17
 - Logback
+- JUnit5
+- H2
